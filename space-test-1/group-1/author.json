@@ -1,0 +1,27 @@
+{
+  "id": "author",
+  "name": "Author",
+  "description": "Author of a blog post",
+  "fields": [
+    {
+      "id": "fullName",
+      "name": "Full Name",
+      "type": "Symbol",
+      "localized": false,
+      "required": false,
+      "validations": [],
+      "disabled": false,
+      "omitted": false
+    },
+    {
+      "id": "twitter",
+      "name": "Twitter",
+      "type": "Symbol",
+      "localized": false,
+      "required": false,
+      "validations": [],
+      "disabled": false,
+      "omitted": false
+    }
+  ]
+}
